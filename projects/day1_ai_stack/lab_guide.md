@@ -7,7 +7,14 @@ Deliverables: one .drawio diagram (editable), one .png (exported), and a short R
 ------------------------------------------------------------
 1) Learn (10–15 min)
 Read two quick intros (skim is fine):
-- The Modern LLM Stack (LangChain blog)
+“Winning in AI means mastering the new stack” — from the LangChain blog
+👉 https://blog.langchain.com/winning-in-ai-means-mastering-the-new-stack/
+This article covers the modern LLM stack: vector databases, embeddings, serving, and orchestration.
+
+Mastering the Modern AI Stack: LLMs, LangChain, Agents and LangGraph” — alternative resource on Medium
+👉 https://medium.com/@aalekh.xams/mastering-the-modern-ai-stack-llms-langchain-agents-and-langgraph-d9ee7c3f7acd
+This one covers a more hands-on view of chains, agents, and retrieval workflows.
+
 - How ChatGPT Actually Works (AssemblyAI blog)
 Understand the 6 layers: Data → Embedding → Retrieval → LLM/Reasoning → Serving → Monitoring
 
